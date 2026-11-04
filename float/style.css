@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding e border não alterem a largura total */
+}
+
+body {
+
+}
+
+header{
+   background-color: #1b4332;
+    color: #ffffff;
+    padding: 30px;
+}
+
+nav{
+    background-color: #ccc;
+    color: #ffffff;
+    height:120px;
+    padding: 30px;
+    
+    
+}
+
+.link{
+   background-color: #1b4332;
+    color: #ffffff;
+    padding: 20px;
+    margin-left:80px;
+    float:left;
+
+}
